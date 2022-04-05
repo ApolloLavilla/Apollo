@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Welcome to my page
+Owned by Apollo Lavilla
 
-You can use the [editor on GitHub](https://github.com/ApolloLavilla/Apollo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+What is Black Clover?
+Black clover is a Japanese manga series written and illustrated by Yūki Tabata. The story follows Asta, a young boy born without any magic power. This is unknown to the world he lives in because seemingly everyone has some sort of magic power. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<img src="https://cdn-longterm.mee6.xyz/plugins/commands/images/421432624402268160/03cf7d42ae0e3d235d6821be782005ecd73cac2394138cb93c537207857c9c51.jpeg" width="500" height="250">
 
-### Markdown
+Who is the main protagonist in Black Clover?
+--- 
+Asta
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<img src="https://static.wikia.nocookie.net/aselia/images/5/54/Asta_%28TotR%29.png/revision/latest?cb=20210402182554" width="300" height="500">
 
-```markdown
-Syntax highlighted code block
+Who is the first antagonist in Black Clover?
+---
+The first Antagonist is Patolli
 
-# Header 1
-## Header 2
-### Header 3
+<img src="https://i.pinimg.com/originals/90/9e/ec/909eecbf97878b3c0433d9a2046b24c0.png" width="350" height="500">
 
-- Bulleted
-- List
+What are Asta's goals?
+---
+- Become the wizard king/Magic Emperor
+- Beat his childhood friend in a race who will become the wizard king/Magic Emperor
 
-1. Numbered
-2. List
+There are four kingdoms in the world of black clover.
+---
+These are spade kingdom, Heart kingdom, Clover kingdom, and Diamond kingdom.
+<img src="https://www.dafont.com/forum/attach/orig/9/2/923103.png" width="500" height="300">
 
-**Bold** and _Italic_ and `Code` text
+Asta and yuno lives in Clover kingdom.
+---
+There are humans who holds good magic and they are known as magic knights
+The magic knights are divided into 9 squads which are Golden Dawn, Black Bulls, Silver Eagles, Crimson Lions, Purple Orcas, Aqua Deers, Blue Rose, Green Mantis, and Coral Peacock. Each Squad has 1 captain and a vice captain.
 
-[Link](url) and ![Image](src)
-```
+<img src="http://pm1.narvii.com/7236/f24dd108a5fd2e2be59580db9e762042eb97af35r1-720-720v2_00.jpg" width="500" height="300">
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+A magic emperor is the person who is the strongest amongst the magic knights in each kingdom. The current magic emperor in Clover Kingdom is Julius NovaChrono
+---
 
-### Jekyll Themes
+<img src="https://qph.fs.quoracdn.net/main-qimg-48989574b27f77b284164c3cb23b45ee" width="400" height="500">
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ApolloLavilla/Apollo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Trivias:
+---
+- Did you know that Julius is the 28th person to hold the title of Wizard King, and while he almost died during the Reincarnation arc, he survives and hold onto the title moving into the following arcs.
+- There are 4 great spirits in black clover but only 3 are known for now.
+- Yuno is more popular than the main character which is asta. Crazy right?
 
-### Support or Contact
+Well that's the overview of black clover. Thank you for reading!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+![anime-bye-bye-yugi-amane](https://user-images.githubusercontent.com/103019404/161704208-6e5e9e9a-98c8-4f6d-8a0f-6c5bbce1135f.gif)
