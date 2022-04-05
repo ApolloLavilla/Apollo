@@ -10,7 +10,7 @@ Who is the main protagonist in Black Clover?
 --- 
 Asta
 
-<img src="https://www.animenewsnetwork.com/thumbnails/crop1200x630gCC/cms/interest.2/162340/asta.jpg" width="300" height="500">
+<img src="https://www.animenewsnetwork.com/thumbnails/crop1200x630gCC/cms/interest.2/162340/asta.jpg" width="500" height="300">
 
 Who is the first antagonist in Black Clover?
 ---
